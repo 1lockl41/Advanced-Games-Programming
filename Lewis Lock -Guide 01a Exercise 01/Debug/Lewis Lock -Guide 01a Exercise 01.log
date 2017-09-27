@@ -1,0 +1,2 @@
+﻿  test.cpp
+LINK : fatal error LNK1104: cannot open file 'd3dx11d.lib'
