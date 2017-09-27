@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: unresolved external symbol D3D11CreateDeviceAndSwapChain referenced in function WinMain
+C:\Users\Lewis\Documents\GitHub\Advanced-Games-Programming\Lewis Lock -Guide 01a Exercise 01\x64\Debug\Lewis Lock -Guide 01a Exercise 01.exe : fatal error LNK1120: 1 unresolved externals
